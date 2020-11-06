@@ -1,6 +1,6 @@
-127.0.0.1  pornhub.com
-127.0.0.1  javdoe.tv
-127.0.0.1  javfinder.la
-127.0.0.1  xvideos.com
-127.0.0.1  xnxx.com
-127.0.0.1  7mmtv.tv
+||pornhub.com^
+||javdoe.tv^
+||javfinder.la^
+||xvideos.com^
+||xnxx.com^
+||7mmtv.tv^
